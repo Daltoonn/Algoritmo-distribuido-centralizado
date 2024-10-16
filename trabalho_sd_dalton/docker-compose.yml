@@ -1,0 +1,49 @@
+version: '3'
+services:
+  node1:
+    build:
+      context: .
+      dockerfile: dockerfile
+    environment:
+      - DEVICE_ID=1
+    networks:
+      - rede_sd
+    volumes:
+      - ./registros:/app/logs
+
+  node2:
+    build:
+      context: .
+      dockerfile: dockerfile
+    environment:
+      - DEVICE_ID=2
+    networks:
+      - rede_sd
+    volumes:
+      - ./registros:/app/logs
+
+  node3:
+    build:
+      context: .
+      dockerfile: dockerfile
+    environment:
+      - DEVICE_ID=3
+    networks:
+      - rede_sd
+    volumes:
+      - ./registros:/app/logs
+
+  node4:
+    build:
+      context: .
+      dockerfile: dockerfile
+    environment:
+      - DEVICE_ID=4
+    networks:
+      - rede_sd
+    volumes:
+      - ./registros:/app/logs
+
+networks:
+  rede_sd:
+    driver: bridge

@@ -1,0 +1,51 @@
+Device 4 accessed shared data at 2024-10-04 00:32:48
+Device 3 accessed shared data at 2024-10-04 00:32:59
+Device 2 accessed shared data at 2024-10-04 00:33:09
+Device 1 accessed shared data at 2024-10-04 00:33:19
+Device 4 accessed shared data at 2024-10-04 00:33:30
+Device 1 accessed shared data at 2024-10-04 00:34:01
+Device 4 accessed shared data at 2024-10-04 00:34:13
+Device 2 accessed shared data at 2024-10-04 00:34:24
+Device 3 accessed shared data at 2024-10-04 00:34:35
+Device 1 accessed shared data at 2024-10-04 00:34:46
+Device 4 accessed shared data at 2024-10-04 00:34:56
+Device 2 accessed shared data at 2024-10-04 00:35:07
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:40:08
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:40:18
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:40:29
+Dispositivo 3 acessou o dado compartilhado às 2024-10-04 00:40:40
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:40:51
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:41:01
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:41:12
+Dispositivo 3 acessou o dado compartilhado às 2024-10-04 00:41:23
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:41:34
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:41:44
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:41:55
+Dispositivo 3 acessou o dado compartilhado às 2024-10-04 00:42:06
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:42:17
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:42:27
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:42:38
+Dispositivo 3 acessou o dado compartilhado às 2024-10-04 00:42:49
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:43:00
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:43:10
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:43:21
+Dispositivo 3 acessou o dado compartilhado às 2024-10-04 00:43:32
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:43:43
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:43:53
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:44:04
+Dispositivo 3 acessou o dado compartilhado às 2024-10-04 00:44:15
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:44:26
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:44:37
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:44:48
+Dispositivo 3 acessou o dado compartilhado às 2024-10-04 00:44:58
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:45:09
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:45:20
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:45:31
+Dispositivo 3 acessou o dado compartilhado às 2024-10-04 00:45:42
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:45:53
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:46:03
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:46:14
+Dispositivo 3 acessou o dado compartilhado às 2024-10-04 00:46:25
+Dispositivo 2 acessou o dado compartilhado às 2024-10-04 00:46:35
+Dispositivo 1 acessou o dado compartilhado às 2024-10-04 00:46:45
+Dispositivo 4 acessou o dado compartilhado às 2024-10-04 00:46:56

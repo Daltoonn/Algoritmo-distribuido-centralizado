@@ -1,0 +1,26 @@
+# Usar a imagem base oficial do Python
+FROM python:3.8-slim
+
+# Definir o diretório de trabalho dentro do contêiner
+WORKDIR /app
+
+# Copiar o arquivo de requisitos para o contêiner
+COPY configuracoes/requirements.txt .
+
+# Instalar as dependências a partir do requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copiar o restante do código para o contêiner
+COPY . .
+
+# Garantir que o diretório de logs exista
+RUN mkdir -p /app/logs
+
+# Expor as portas necessárias para comunicação entre os dispositivos
+EXPOSE 5001 5002 5003 5004
+
+# Definir a variável de ambiente padrão
+ENV PYTHONUNBUFFERED=1
+
+# Comando para rodar o algoritmo
+CMD ["python", "codigo_fonte/algoritmo_sd.py"]
